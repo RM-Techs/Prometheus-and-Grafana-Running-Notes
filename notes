@@ -65,6 +65,7 @@ kubectl port-forward service/prometheus-server 9090:80
 
 
 
+#handle this carefully because these are paswords
 PWD: rClqPzmpzZS8ehZl418hHoZDaIlvXFNuCYJY7wnr
 PWD01: xoAvzxEq42yXm332QCVOSusgSHgPgj9fS4EiwWRt
 
